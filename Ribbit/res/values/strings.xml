@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Buzz</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Listen MissedCalls</string>
+    <string name="title_section2">friends</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_label">SIGN IN</string>
+    <string name="sign_up_text">Don\'t have an account? SignUp!</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="email_hint">Email</string>
+    <string name="sign_up_button_label">SIGN UP</string>
+    <string name="signup_error_message">Please Make Sure You Entered Username , Password and Email address!</string>
+    <string name="signup_error_title">Oops!</string>
+    <string name="login_error_message">Please Make Sure You Entered Username and Password!</string>
+    <string name="login_error_title">Oops!</string>
+    <string name="menu_logout_label">Logout</string>
+    <string name="empty_inbox_label">No New Messages</string>
+    <string name="empty_text_label">Add New Friends</string>
+    <string name="about_us">Buzz! lets you stay connected with your friends by giving you features like Image and Video sharing..you can also use Buzz to record the calls you want to listen later on..</string>
+    <string name="about_title">About Us</string>
+    <string name="sett_main">Settings</string>
+    <string name="backgroundimage">backgroundimage</string>
+    <string name="subtitle">Android Voice Mail</string>
+    <string name="bimage">image</string>
+    <string name="cancel_button_label">CANCEL</string>
+    <string name="button_divider">Button Divider</string>
+    <string name="menu_edit_friends_label">Edit Friends</string>
+    <string name="title_activity_edit_friends">EditFriends</string>
+    <string name="error_title">We\'re Sorry!</string>
+    <string name="menu_camera_label">camera</string>
+    <string name="error_external_storage">There is a problem accessing your storage state</string>
+    <string name="general_error">error</string>
+
+    <string-array name="camera_choices">
+        <item>Take Picture</item>
+        <item>Take Video</item>
+        <item>Choose Picture</item>
+        <item>Choose Video</item>
+    </string-array>
+
+    <string name="video_filesize_warning">selected video should not be greater than 10mb</string>
+    <string name="error_file_size_too_large">file size too large</string>
+    <string name="error_opening_file">cannot open file</string>
+    <string name="title_activity_recipients">Choose Recipients</string>
+    <string name="menu_send_label">Send</string>
+    <string name="error_selecting_file_title">We\'re Sorry</string>
+    <string name="error_selecting_file">There Was An Error! Please Select Some Other File.</string>
+    <string name="success_message">Message Sent</string>
+    <string name="error_sending_message">Message Not Sent</string>
+    <string name="title_activity_view_image">IMAGE MESSAGE</string>
+    <string name="title_activity_image_view">Image Message</string>
+    <string name="push_message">You Have New Message From %s!</string>
+    <string name="call_recorder">call_recorder</string>
+    <string name="title_activity_call_record">CallRecord</string>
+    <string name="recording_enabled_prompt">Record during calls</string>
+    <string name="audio_source_prompt">Audio source</string>
+    <string name="audio_format_prompt">Audio format</string>
+
+</resources>

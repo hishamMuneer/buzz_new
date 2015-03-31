@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+	<PreferenceCategory
+	    android:title="Enable/Disable Voice Mail">
+	<CheckBoxPreference
+	    android:title="Enable Voice Mail"
+	    android:defaultValue="true"
+	    android:key="checkbox"
+	    android:summary="Check this box"/>    
+	    </PreferenceCategory>
+	    <PreferenceCategory
+	        android:title="Set Time After Which Call Will Be Picked">
+	<ListPreference
+	   android:title="Set Recorder"
+	   android:key="list"
+	   android:summary="This Is The List To Choose From"
+	   android:entries="@array/list"
+	   android:entryValues="@array/lvalues"
+	    />
+	</PreferenceCategory>
+</PreferenceScreen>

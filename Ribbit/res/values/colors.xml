@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="light_grey">#bbbbbb</color>    
+<color name="apptheme_color">#badf3a</color>
+<color name="light_green">#87D13E</color>
+<color name="pressed_green_button">#62A321</color>
+<color name="focused_green_button">#315210</color>
+<color name="light_purple_background">#e9e4ed</color>
+<color name="refresh1">#482c6f</color>
+<color name="refresh2">#ad78d9</color>
+<color name="refresh3">#dcadf4</color>
+<color name="refresh4">#ad78d9</color>
+</resources>
